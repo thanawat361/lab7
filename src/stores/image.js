@@ -43,6 +43,26 @@ export const useImage = defineStore("Image", () => {
         alt:'08',
         detail:' ม.แม่โจ้ ร่วมพิธีวันพระบิดาแห่งฝนหลวง ประจำปี 2565',
     },
+    {
+        src:'https://erp.mju.ac.th/picture/information/f5e9607b21d74d22a7d6e3d2cc33a017s.jpg',
+        alt:'09',
+        detail:' คณะศิลปศาสตร์ จัดโครงการอบรมจริยธรรมการวิจัยในคนและพัฒนาศักยภาพนักวิจัย',
+    },
+    {
+        src:'https://erp.mju.ac.th/picture/information/1c6abba2ba22427cb79bb5904ad91c5bs.jpg',
+        alt:'10',
+        detail:' คณะสัตวแพทยศาสตร์ ม.แม่โจ้ ออกพื้นที่ปฏิบัติงานในหน่วยสัตวแพทย์อาสาจุฬาภรณ์',
+    },
+    {
+        src:'https://erp.mju.ac.th/picture/information/bcbcc7b16cc140e0ae7d1ece92959a57s.jpg',
+        alt:'11',
+        detail:' ม.แม่โจ้ ได้จัดการประกวดสุนทรพจน์ภาษาอังกฤษ MJU Liberal Arts English Speech Contest 2023 ภายใต้หัวข้อ ',
+    },
+    {
+        src:'https://erp.mju.ac.th/picture/information/f26bd3d195d1468e9942c1d52e5b16efs.jpeg',
+        alt:'12',
+        detail:' ขอแสดงความยินดี อธิการบดี ม.แม่โจ้ รับโล่เกียรติยศนักเรียนเก่าฟิลิปปินส์ดีเด่น ปี 2565',
+    },
   ]);
   return {image};
 });

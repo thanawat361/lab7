@@ -4,10 +4,10 @@ const { course } = useCourse();
 </script>
 <template>
   <div class="container mt-5 text-center">
-    <div class="row mt-2" style="font-size: 22px; color:white;">
+    <div class="row mt-2" style="font-size: 22px; color:burlywood;">
       <div class="col text-start">Course</div>
     </div>
-    <div class="row mt-4" style="font-size: 22px; color:white;">
+    <div class="row mt-4" style="font-size: 22px; color:blue;">
       <div class="col">
         <div>No.</div>
       </div>

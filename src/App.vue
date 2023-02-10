@@ -9,14 +9,14 @@ import topic from "./components/topic.vue";
     <div class="container">
       <header class="row mt-5" style="height: 200px;">
         <div class="col-2">
-          <img alt="Vue logo" class="logo" src="@/assets/MJU_LOGO.svg" width="200" height="200" />
+          <img alt="Vue logo" class="logo" src="assets/MJU_LOGO.svg" width="200" height="200" />
         </div>
         <div class="col d-flex align-items-center">
           <topic msg="Wellcome to MJU" />
         </div>
         <div class="col">
           <div class="tria"></div>
-          <nav class="container text-center" style="background-color: #00A65A;">
+          <nav class="container text-center" style="background-color: rgba(0,0,0,0)">
             <div class="row align-items-center" style="height: 50px;">
               <div class="col">
                 <div >
