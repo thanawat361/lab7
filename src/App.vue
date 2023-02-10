@@ -14,18 +14,18 @@ import topic from "./components/topic.vue";
         </div>
         <div class="col">
           <div class="tria"></div>
-          <nav class="container text-center" style="background-color: rgba(0,0,0,0)">
+          <nav class="container text-center" style="background-color: #0000ff">
             <div class="row align-items-center" style="height: 50px;">
               <div class="col">
                 <div >
-                  <RouterLink to="/" class="text-light mu">Home</RouterLink>
+                  <RouterLink to="/" class="text-dark mu">Home</RouterLink>
                 </div>
               </div>
               <div class="col-3">
-                <RouterLink to="/subject" class="text-light mu">Course</RouterLink>
+                <RouterLink to="/subject" class="text-dark mu">Course</RouterLink>
               </div>
               <div class="col">
-                <RouterLink to="/AddDrop" class="text-light mu">Add&Del Cour</RouterLink>
+                <RouterLink to="/AddDrop" class="text-dark mu">Add&Del Cour</RouterLink>
               </div>
             </div>
           </nav>

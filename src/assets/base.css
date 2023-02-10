@@ -10,10 +10,10 @@
 
   --vt-c-indigo: #263646;
 
-  --vt-c-divider-light-1: rgba(60, 60, 60, 0.29);
-  --vt-c-divider-light-2: rgba(60, 60, 60, 0.12);
-  --vt-c-divider-dark-1: rgba(84, 84, 84, 0.65);
-  --vt-c-divider-dark-2: rgba(84, 84, 84, 0.48);
+  --vt-c-divider-light-1: rgba(228, 41, 41, 0.555);
+  --vt-c-divider-light-2: rgba(194, 47, 47, 0.562);
+  --vt-c-divider-dark-1: rgba(41, 241, 198, 0.65);
+  --vt-c-divider-dark-2: rgba(45, 209, 119, 0.48);
 
   --vt-c-text-light-1: var(--vt-c-indigo);
   --vt-c-text-light-2: rgba(63, 14, 241, 0.66);
