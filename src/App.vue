@@ -8,9 +8,7 @@ import topic from "./components/topic.vue";
   <div class="d-flex justify-content-center">
     <div class="container">
       <header class="row mt-5" style="height: 200px;">
-        <div class="col-2">
-          <img alt="Vue logo" class="logo" src="assets/MJU_LOGO.svg" width="200" height="200" />
-        </div>
+        
         <div class="col d-flex align-items-center">
           <topic msg="Wellcome to MJU" />
         </div>
